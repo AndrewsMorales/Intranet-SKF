@@ -1,8 +1,8 @@
 # Intranet-SKF
-Aqui se muestra imagenes de uno de mis desarrollos al no puedo dar acceso por temas de privacidad.
-Este proyecto es basado en un backend en wordpress y su frontend en javascript y jquery.
-y para base de datos se utilizaba dos gestores el de wordpress para la administracion  de ususarios y paginas,
-y el de sqlserver ya que nos conectavamos a otro aplicativo llamado icg para extraer datos y procesarlos
+Aquí se muestra imágenes de uno de mis desarrollos al no puedo dar acceso por temas de privacidad. 
+Este proyecto es basado en un backend en WordPress y su frontend en JavaScript y jQuery. 
+Y para base de datos se utilizaba dos gestores, el de WordPress MySql para la administración de usuarios y páginas, y el de sqlserver,
+ya que nos conectábamos a otro aplicativo llamado ICG para extraer datos y procesarlos.
 
 ![image](https://github.com/AndrewsMorales/Intranet-SKF/assets/120028117/09799002-df47-4e28-88bf-2b6f6986ec49)
 
