@@ -1,25 +1,32 @@
 # Intranet-SKF
-Este apartado presenta capturas de pantalla de uno de mis desarrollos más destacados. Por motivos de privacidad y confidencialidad, no puedo proporcionar acceso directo al proyecto, pero aquí ofrezco una visión general de su arquitectura y funcionalidades.
+## Proyecto Destacado: Sistema Integrado de Gestión
 
-El proyecto cuenta con un backend robusto en WordPress, lo que facilita la gestión eficiente de usuarios y páginas a través de su base de datos MySQL. El frontend está desarrollado con JavaScript y jQuery, proporcionando una interfaz dinámica e interactiva que mejora significativamente la experiencia del usuario.
+Este apartado presenta capturas de pantalla de uno de mis desarrollos más destacados. Por motivos de **privacidad** y **confidencialidad**, no puedo proporcionar acceso directo al proyecto, pero aquí ofrezco una visión general de su **arquitectura** y **funcionalidades**.
 
-Una de las características más importantes de este proyecto es su integración con múltiples gestores de bases de datos. Además de MySQL para las operaciones del backend de WordPress, se utiliza SQL Server para conectarse a otro sistema empresarial denominado ICG. Esta integración permite extraer, procesar y mostrar información en tiempo real desde el sistema externo, logrando una sincronización eficiente entre ambos entornos.
+### Descripción General
 
-Principales características del proyecto:
+El proyecto cuenta con un **backend robusto en WordPress**, lo que facilita la gestión eficiente de **usuarios** y **páginas** a través de su base de datos **MySQL**. El **frontend**, desarrollado con **JavaScript** y **jQuery**, proporciona una interfaz **dinámica** e **interactiva**, mejorando significativamente la experiencia del usuario.
 
-Backend en WordPress: Gestión de usuarios, contenido y páginas mediante una interfaz amigable y funcional.
+### Integración de Bases de Datos
 
-Frontend en JavaScript y jQuery: Interacciones dinámicas, animaciones y manipulación eficiente del DOM para ofrecer una experiencia de usuario fluida.
+Una de las características más importantes de este proyecto es su **integración con múltiples gestores de bases de datos**. Además de **MySQL** para las operaciones del backend de WordPress, se utiliza **SQL Server** para conectarse a otro sistema empresarial denominado **ICG**. Esta integración permite **extraer**, **procesar** y **mostrar información en tiempo real** desde el sistema externo, logrando una **sincronización eficiente** entre ambos entornos.
 
-Bases de datos duales:
+### Principales Características del Proyecto
 
-MySQL: Almacenamiento y gestión de datos relacionados con WordPress.
+- **Backend en WordPress**: Gestión de **usuarios**, **contenido** y **páginas** mediante una interfaz amigable y funcional.
+  
+- **Frontend en JavaScript y jQuery**: Interacciones dinámicas, animaciones y manipulación eficiente del **DOM** para ofrecer una experiencia de usuario fluida.
 
-SQL Server: Extracción y procesamiento de información desde el sistema ICG para sincronización de datos en tiempo real.
+- **Bases de Datos Dual**:
+  - **MySQL**: Almacenamiento y gestión de datos relacionados con WordPress.
+  - **SQL Server**: Extracción y procesamiento de información desde el sistema **ICG** para sincronización de datos en tiempo real.
 
-Seguridad y privacidad: Implementación de buenas prácticas para proteger la integridad y confidencialidad de los datos.
+- **Seguridad y Privacidad**: Implementación de **buenas prácticas** para proteger la integridad y confidencialidad de los datos.
 
-Este desarrollo demuestra mi habilidad para crear soluciones web complejas que integran múltiples tecnologías y bases de datos, garantizando un rendimiento óptimo y una experiencia de usuario efectiva.
+### Conclusión
+
+Este desarrollo demuestra mi habilidad para crear **soluciones web complejas** que integran múltiples tecnologías y bases de datos, garantizando un **rendimiento óptimo** y una **experiencia de usuario efectiva**.
+
 
 
 ![image](https://github.com/AndrewsMorales/Intranet-SKF/assets/120028117/09799002-df47-4e28-88bf-2b6f6986ec49)
