@@ -8,12 +8,20 @@ Una de las características más importantes de este proyecto es su integración
 Principales características del proyecto:
 
 Backend en WordPress: Gestión de usuarios, contenido y páginas mediante una interfaz amigable y funcional.
+
 Frontend en JavaScript y jQuery: Interacciones dinámicas, animaciones y manipulación eficiente del DOM para ofrecer una experiencia de usuario fluida.
+
 Bases de datos duales:
+
 MySQL: Almacenamiento y gestión de datos relacionados con WordPress.
+
 SQL Server: Extracción y procesamiento de información desde el sistema ICG para sincronización de datos en tiempo real.
+
 Seguridad y privacidad: Implementación de buenas prácticas para proteger la integridad y confidencialidad de los datos.
+
 Este desarrollo demuestra mi habilidad para crear soluciones web complejas que integran múltiples tecnologías y bases de datos, garantizando un rendimiento óptimo y una experiencia de usuario efectiva.
+
+
 ![image](https://github.com/AndrewsMorales/Intranet-SKF/assets/120028117/09799002-df47-4e28-88bf-2b6f6986ec49)
 
 ![Imagen de WhatsApp 2023-11-25 a las 21 44 36_8001fdb9](https://github.com/AndrewsMorales/Intranet-SKF/assets/120028117/8733f17b-abcd-4e7d-898e-3da241165a22)
